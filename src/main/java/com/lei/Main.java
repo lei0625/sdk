@@ -15,7 +15,7 @@ public class Main {
 
 
         Library library = new Library("http://localhost:8686/api/events", 2);
-        library.fillParameters(1.23456f).fillParameters(6.54321f).fillParameters(System.currentTimeMillis()).fillParameters("niu");
+        library.fillParameters(1.23456f).fillParameters(6.54321f).fillParameters(System.currentTimeMillis()).fillParameters("test");
         library.log();
 
 
