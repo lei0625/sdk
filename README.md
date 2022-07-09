@@ -27,7 +27,8 @@
 	  -  **WRONG_TYPE**: illustrating the input type is **Wrong**
 	  -  **NULL_INPUT**:   illustrating the input is **Null**
 2. Errors are **not exclusive**, which means an in-proper operation may lead to multiple Errors.
-	**Eg**: 
+	**Eg**:
+	
     library.fillParameters(null).fillParameters(null).fillParameters(System.currentTimeMillis()).fillParameters("test");
 
 	
@@ -82,7 +83,7 @@
  - [ ] Unit Tests
 	
 
-	Unit Tests are divide into **6 types** based on requirements.
+	Unit Tests are divided into **6 types** based on requirements.
 - AutoFill Test
 - ErrorMessage Test
 - Pricesion Test
@@ -94,7 +95,7 @@ Above Tests are implmented with Test Classes can be found  **in test dir within 
 
  - [ ] End to End Test
 
-	To achive this test, you must lauch a HTTP endpoint powerd by SpringBoot. The source code of this app
+	To achive this test, you must lauch an HTTP endpoint powerd by SpringBoot. The source code of this app
 	has been uploaded to this **GitHub Repo.**
 	
 
