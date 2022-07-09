@@ -1,0 +1,17 @@
+[
+  {
+    "errorMsgs": [
+      {
+        "type": "TIME_ABSENT"
+      }
+    ],
+    "payload": [
+      {
+        "lat": "99.3",
+        "lon": "32.6",
+        "time": "1657252860238",
+        "ext": ""
+      }
+    ]
+  }
+]

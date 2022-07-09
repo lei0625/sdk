@@ -1,0 +1,33 @@
+[
+  {
+
+    "errorMsgs": [
+      {
+        "type" : "NULL"
+      }
+    ]
+
+  ,
+
+
+    "payload": [
+      {
+        "lat": "123",
+        "lon": "456",
+        "time": "xxx",
+        "ext": "yyy"
+
+
+      },{
+        "lat": "123",
+        "lon": "456",
+        "time": "xxx",
+        "ext": "yyy"
+
+
+      }
+    ]
+  }
+
+
+]
