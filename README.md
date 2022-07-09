@@ -1,6 +1,6 @@
 ﻿# QUICK START
 
-**3-Step Use**(Assume HTTP endpoint launched)
+**3-Step Use**(Assume a HTTP endpoint launched)
 
  **Step one**:  Get the library object
 
